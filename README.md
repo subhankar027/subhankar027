@@ -1,6 +1,6 @@
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Data GIF">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Data GIF">
 </p>
 
 <h1 align="center">Hi, I'm Subhankar 👋</h1>
@@ -55,7 +55,7 @@
 | 📈 **Power BI Customer Sentimental analysis** | Power BI | Dynamic visuals from cleaned data |
 | 🌐 **SEO Optimization Case Study** | SEO, Docs | Keyword planning and ranking strategies |
 | 🏙️ **NoBroker Locality IQ** | CMS, SEO | Added content & FAQs, geo-tagged images, CMS publishing |
-| 💼 [**Sample-Dividend Determinant**](https://docs.google.com/spreadsheets/d/1NjNwX8epZxv9SX4-phx255zpe6bhRbB8/edit?usp=sharing) |
+| 💼 [**Sample-Dividend Determinant**](https://docs.google.com/spreadsheets/d/1NjNwX8epZxv9SX4-phx255zpe6bhRbB8/edit?usp=sharing) | Excel, Financial Data | Data Mining, Data Cleaning, Data wrangling . |
 
 
 📌 **Sample-Dividend Determinant (Financial Management)**
