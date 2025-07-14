@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
 </p>
 
 ### 🌐 SEO & Content
@@ -51,8 +52,7 @@
 | Project | Tools | Description |
 |--------|--------|-------------|
 | 📊 **Excel Sales Dashboard** | Excel | Interactive dashboard using pivot tables, slicers, charts |
-| 📈 **Power BI COVID Report** | Power BI | Dynamic visuals from cleaned data |
-| 🐍 **Python IPL Analysis** | Python, Pandas | Analyzing match data for trends |
+| 📈 **Power BI Customer Sentimental analysis** | Power BI | Dynamic visuals from cleaned data |
 | 🌐 **SEO Optimization Case Study** | SEO, Docs | Keyword planning and ranking strategies |
 | 🏙️ **NoBroker Locality IQ** | CMS, SEO | Added content & FAQs, geo-tagged images, CMS publishing |
 
