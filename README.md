@@ -3,7 +3,6 @@ www.linkedin.com/in/subhankarmandal
 
 
 
-
 🌱 I’m currently diving into Machine Learning and AI
 🧑‍💻 Contributing to Anlysis and Visualization Projects
 💬 Ask me about Data Analytics, Machine Learning, and Projects
