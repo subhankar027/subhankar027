@@ -55,15 +55,23 @@
 | 📈 **Power BI Customer Sentimental analysis** | Power BI | Dynamic visuals from cleaned data |
 | 🌐 **SEO Optimization Case Study** | SEO, Docs | Keyword planning and ranking strategies |
 | 🏙️ **NoBroker Locality IQ** | CMS, SEO | Added content & FAQs, geo-tagged images, CMS publishing |
-| 💼 [**Sample-Dividend Determinant**](https://docs.google.com/spreadsheets/d/1NjNwX8epZxv9SX4-phx255zpe6bhRbB8/edit?usp=sharing) | Excel, Financial Data | Data Mining, Data Cleaning, Data wrangling . |
 
 
+Projects Descriptions
 📌 **Sample-Dividend Determinant (Financial Management)**
 - Extracted, cleaned, and structured raw financial data
 - Applied data wrangling for clarity and analysis
 - Ensured data accuracy for financial modeling
 - Built the foundation for actionable insights and decisions  
 🔗 [Google Sheet Link](https://docs.google.com/spreadsheets/d/1NjNwX8epZxv9SX4-phx255zpe6bhRbB8/edit?usp=sharing)
+
+📌 **Consumer Sentimental analysis(Qualitative Data)**  
+- Gathered and structured user responses for analysis  
+- Cleaned and analyzed qualitative data to identify key patterns  
+- Built interactive dashboards using **pivot tables** and **slicers**  
+- Derived insights on workforce trends and decision-making support  
+🔗 [Google Sheet Link](https://docs.google.com/spreadsheets/d/1UbBVYQXrb5fIN4TqbqadZ93iRawA_1r_/edit?usp=sharing&ouid=109226540081574204084&rtpof=true&sd=true)  
+
 
 
 ---
